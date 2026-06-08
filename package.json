@@ -1,0 +1,10 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Test repository",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "license": "MIT"
+}
